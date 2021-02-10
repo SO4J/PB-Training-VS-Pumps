@@ -1,0 +1,16 @@
+* {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#features {
+    padding-left: 5%;
+    max-width: auto;
+    display: flex;
+    justify-self: center;
+}
+.card {
+    padding-bottom: 10px;
+    justify-content: space-between;
+}
+
